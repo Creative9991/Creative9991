@@ -17,11 +17,7 @@
   I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   - :telescope: I’m working as a Web UI developer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   
   ---
 
