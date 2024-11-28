@@ -13,10 +13,8 @@
   
   ---
 
-  A Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-  - :telescope: Working as a Web UI developer and contributing to frontend for building web applications.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
+  A Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  - :telescope: Working as a Web Developer and contributing to building web applications.
   
   ---
 
