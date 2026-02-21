@@ -13,7 +13,7 @@
   ---
 
   A Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-  - :telescope: Working as a Web Developer and contributing to building web applications.
+  - :telescope: Working as a Software Engineer and contributing to building web applications.
   
   ---
 
