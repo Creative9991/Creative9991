@@ -12,7 +12,7 @@
   
   ---
 
-  A Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  A Sofrware Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   - :telescope: Working as a Software Engineer and contributing to building web applications.
   
   ---
